@@ -15,7 +15,7 @@ UNO Robotics has decided to put this project on hold due to the high cost of 2oz
 <img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-03.jpg' title='Back' width="alt='Video Walkthough'"/> 
 
 # How We Used to Tie the Board:
-<img src='https://i.imgur.com/g6n1yC7.jpg' title='Solder Tie' width="alt='Video Walkthough'"/> 
+<img src='https://i.imgur.com/g6n1yC7.jpg?1' title='Solder Tie' width="alt='Video Walkthough'"/> 
 
 # redBoard-Tied Front:
 <img src='https://i.imgur.com/4pU7neX.png' title='Front' width="alt='Video Walkthough'"/> 
@@ -24,10 +24,10 @@ UNO Robotics has decided to put this project on hold due to the high cost of 2oz
 <img src='https://i.imgur.com/MXoxK8u.png' title='Back' width="alt='Video Walkthough'"/> 
 
 # Prototype Front:
-<img src='https://i.imgur.com/3BYr6Gn.jpg' title='Front' width="alt='Video Walkthough'"/> 
+<img src='https://i.imgur.com/3BYr6Gn.jpg?1' title='Front' width="alt='Video Walkthough'"/> 
 
 # Prototype Back:
-<img src='https://i.imgur.com/ykVvi2w.jpg' title='Back' width="alt='Video Walkthough'"/> 
+<img src='https://i.imgur.com/ykVvi2w.jpg?1' title='Back' width="alt='Video Walkthough'"/> 
 
 # Helpful Links:
 Quadstepper from SparkFun: https://www.sparkfun.com/products/retired/10507
