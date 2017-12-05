@@ -8,7 +8,14 @@ The first prototype failed in spectacular fashion as pictured below. We ordered 
 
 UNO Robotics has decided to put this project on hold due to the high cost of 2oz copper board fabrication and because the University of New Orleans has acquired its own PCB fabrication machine. As we improve in-house PCB fabrication ability, we intend to come back to the RedBoard project.
 
-!! Take picture of what was done to old Red Boards. !! Post pictures of what happened to this Red Board with a 1oz pour.
+# Original Red Board Front: 
+<img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-02.jpg' title='Front' width="alt='Video Walkthough'"/> 
+
+# Original Red Board Back:
+<img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-03.jpg' title='Back' width="alt='Video Walkthough'"/> 
+
+# How We Used to Tie the Board:
+<img src='https://i.imgur.com/g6n1yC7.jpg' title='Solder Tie' width="alt='Video Walkthough'"/> 
 
 # redBoard-Tied Front:
 <img src='https://i.imgur.com/4pU7neX.png' title='Front' width="alt='Video Walkthough'"/> 
@@ -16,11 +23,11 @@ UNO Robotics has decided to put this project on hold due to the high cost of 2oz
 # redBoard-Tied Back:
 <img src='https://i.imgur.com/MXoxK8u.png' title='Back' width="alt='Video Walkthough'"/> 
 
-# Original Red Board Front: 
-<img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-02.jpg' title='Front' width="alt='Video Walkthough'"/> 
+# Prototype Front:
+<img src='https://i.imgur.com/3BYr6Gn.jpg' title='Front' width="alt='Video Walkthough'"/> 
 
-# Original Red Board Back:
-<img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-03.jpg' title='Back' width="alt='Video Walkthough'"/> 
+# Prototype Back:
+<img src='https://i.imgur.com/ykVvi2w.jpg' title='Back' width="alt='Video Walkthough'"/> 
 
 # Helpful Links:
 Quadstepper from SparkFun: https://www.sparkfun.com/products/retired/10507
