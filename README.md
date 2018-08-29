@@ -8,6 +8,9 @@ The first prototype failed in spectacular fashion as pictured below. We ordered 
 
 UNO Robotics has decided to put this project on hold due to the high cost of 2oz copper board fabrication and because the University of New Orleans has acquired its own PCB fabrication machine. As we improve in-house PCB fabrication ability, we intend to come back to the RedBoard project.
 
+8.29.18: DEVELOPMENT IS BACK ON.
+Because of our performance in the 2018 season, UNO Robotics has secured funding to move forward with a prototype of redBoard-Tied with 2oz copper. We're finalzing the parts list and will place an order with MacroFab soon.
+
 # Original Red Board Front: 
 <img src='https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-02.jpg' title='Front' width="alt='Video Walkthough'"/> 
 
